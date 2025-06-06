@@ -1,1 +1,1 @@
-# chart-skaffold
+# charts-scaffold
